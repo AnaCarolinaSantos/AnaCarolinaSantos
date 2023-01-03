@@ -25,23 +25,15 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-<br>
+<br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=AnaCarolinaSantos&show_icons=true&theme=tokyonight" alt="AnaCarolinaSantos's stats"/>
-
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCarolinaSantos&layout=compact&theme=tokyonight" alt="AnaCarolinaSantos's most languages"/>
+  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=AnaCarolinaSantos&show_icons=true&theme=tokyonight" alt="AnaCarolinaSantos's stats"/>
 </p>
 <br>
 
 ## ☎️ &nbsp;Contact
-<p align="left" style="background:yellow">
-<a href=https://www.linkedin.com/in/ana-carolina-santos-3549a2218/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-AnaCarolinaSantos-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-                                                                                                                          
-<a target="_blank">
+<p align="left" style="background:yellow">                                                                           
   <img align="center" src="https://img.shields.io/badge/-ana.c.santos2003@gmail.com-05122A?style=flat&logo=gmail" alt="gmail"/>
-</a>                                                                                                                        
 </p>

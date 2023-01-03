@@ -1,5 +1,5 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/AnaCarolinaSantos/8c4e3795cf9e262beea5a7e39978c69e/raw/3d803562b6991cfcd8fc52d0d30d3af9290502a0/githubcard.svg"/>
-<h1 align="left">Hi, guys <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> <br> I'm Ana Santos</h1>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/AnaCarolinaSantos/8c4e3795cf9e262beea5a7e39978c69e/raw/db7cfe26861ce6a8ca1f10a56b8003a5892fbb4e/githubcard.svg"/>
+<h1 align="left">Hi, guys <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="40px"> <br> I'm Ana Santos</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnaCarolinaSantos&color=blue" alt="Profile views" /> </p>
 
 - 👩🏻‍💻 Full stack trainee developer 

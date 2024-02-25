@@ -4,9 +4,9 @@
 
 - 👩🏻‍💻 Junior Full Stack Developer 
 
-- 🩺 I’m currently working at SpinCare - Pulsati
+- 💚 I’m currently working at Senior Sistemas
 
-- ⌨️ Languages used by me: **HTML, CSS, JavaScript, Java, PostgreSQL**
+- ⌨️ Languages used by me: **HTML, CSS, TypeScript, Java, PostgreSQL**
 
 - 🙆🏻‍♀️ More at https://www.linkedin.com/in/ana-carolina-santos-3549a2218/
 <br>

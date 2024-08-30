@@ -1,8 +1,7 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/AnaCarolinaSantos/8c4e3795cf9e262beea5a7e39978c69e/raw/b7b2df771298ff4b744f50ea222eefb9c9104a99/githubcard.svg"/>
 <h1 align="left">Hi, guys <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> <br> I'm Ana Santos</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnaCarolinaSantos&color=blue" alt="Profile views" /> </p>
 
-- 👩🏻‍💻 Junior Full Stack Developer 
+- 👩🏻‍💻 Full Stack Developer 
 
 - 💚 I’m currently working at Senior Sistemas
 

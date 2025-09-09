@@ -1,9 +1,9 @@
 <h1 align="left">Hi, guys <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> <br> I'm Ana Santos</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnaCarolinaSantos&color=blue" alt="Profile views" /> </p>
 
-- 👩🏻‍💻 Full Stack Developer 
+- 👩🏻‍💻 Full-stack Developer & Systems Analyst
 
-- 💚 I’m currently working at Senior Sistemas
+- 🧡 I’m currently working at CI&T
 
 - ⌨️ Languages used by me: **HTML, CSS, TypeScript, Java, PostgreSQL**
 

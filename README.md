@@ -3,7 +3,7 @@
 
 - 👩🏻‍💻 Full-stack Developer & Systems Analyst
 
-- 🧡 I’m currently working at CI&T
+- <img src="https://logos-world.net/wp-content/uploads/2024/10/CIT-Symbol.png" height="15px"> I’m currently working at CI&T
 
 - ⌨️ Languages used by me: **HTML, CSS, TypeScript, Java, PostgreSQL**
 
